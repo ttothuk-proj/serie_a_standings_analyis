@@ -13,4 +13,4 @@ Extra fun facts from the exploration of the dataset:
 - Team losing the most positions in the last 28 rounds was Sampdoria who could not manage to get out of the relegation zone (finished 18th), after being 10th after 10 rounds.
 
 
-![](combined_half_titles.jpg)
+![](/img/combined_half_titles.jpg)
