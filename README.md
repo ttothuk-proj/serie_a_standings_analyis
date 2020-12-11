@@ -14,3 +14,11 @@ Extra fun facts from the exploration of the dataset:
 
 
 ![](/img/combined_half_titles.jpg)
+
+
+Over the last 15 years this is AC Milan's best start, giving them a good chance to win the title this year.
+![](/img/milan_starts.png)
+
+
+Looking at the previous years and averaging the positions gained in last 28 rounds, Milan sits on top with around 3 position improved.
+![](/img/average_positions_change.png)
