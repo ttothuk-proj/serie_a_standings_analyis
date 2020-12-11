@@ -21,4 +21,5 @@ Over the last 15 years this is AC Milan's best start, giving them a good chance 
 
 
 Looking at the previous years and averaging the positions gained in last 28 rounds, Milan sits on top with around 3 position improved.
-![](/img/average_positions_change.png)
+![](/img/average_position_change.png)
+![](/img/total_position.png)
